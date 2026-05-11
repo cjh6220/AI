@@ -1,0 +1,23 @@
+{
+    "asset": "cb9053306b97fc34485adc366eecba7b",
+    "fileName": "019e01d1-8dae-70cf-be2d-d6ca399f2024.glb",
+    "prompt": "A heavy assault combat robot designed for a sci-fi post-apocalyptic world, full body front view, T-pose, dark black background, highly detailed hard surface modeling, realistic military mech design, dominant red and dark gray color scheme with glowing red accents, bulky armored silhouette, clearly different from civilian robots, both arms replaced with advanced weapon systems, one arm equipped with a heavy gatling gun, the other arm equipped with a plasma cannon, large shoulder-mounted missile launcher pods on both sides, reinforced mechanical legs, exposed pistons and hydraulic joints, battle-worn metal surfaces with scratches and damage, glowing red combat visor instead of friendly eyes, intimidating military appearance, industrial sci-fi aesthetic, cinematic studio lighting, symmetrical centered presentation, high poly concept art render, realistic materials, designed as a Unity game character reference, clean orthographic front pose render",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "63ec1063b6967c343bc9ab3627e78c68",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

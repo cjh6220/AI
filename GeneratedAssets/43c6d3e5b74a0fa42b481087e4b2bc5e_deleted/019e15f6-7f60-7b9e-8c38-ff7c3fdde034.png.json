@@ -1,0 +1,28 @@
+{
+    "asset": "43c6d3e5b74a0fa42b481087e4b2bc5e",
+    "fileName": "019e15f6-7f60-7b9e-8c38-ff7c3fdde034.png",
+    "prompt": "masterpiece, best quality, ultra detailed, clean 2D game character sprite, chibi utility robot, small cute combat support robot, round white helmet head with glossy black face screen, glowing blue eyes, tiny green sprout growing on top of the head, compact futuristic body, white and black mechanical armor, blue glowing accents, holding a futuristic sci-fi rifle with both hands, stable combat idle pose, facing right side, small backpack module with blue medical icon, clean silhouette, simple readable design for game sprite, soft shading, polished cartoon rendering, high readability, centered character, dark background, no muzzle flash, no shooting effect, no motion blur, no extra objects, full body visible\r\n\r\nnegative prompt:\r\nrealistic human, anime girl, photorealistic, overly complex details, messy background, multiple characters, floating weapons, blur, low quality, distorted anatomy, extra limbs, cropped body, text, watermark, explosion, firing effect, glow particles, heavy shadows\r",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

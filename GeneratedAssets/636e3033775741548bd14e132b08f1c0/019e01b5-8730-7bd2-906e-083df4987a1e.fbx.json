@@ -1,0 +1,23 @@
+{
+    "asset": "636e3033775741548bd14e132b08f1c0",
+    "fileName": "019e01b5-8730-7bd2-906e-083df4987a1e.fbx",
+    "prompt": "A small home assistant robot designed for a post-apocalyptic sci-fi world, cute but practical appearance, compact humanoid body, rounded edges, white plastic exterior with subtle wear and scratches, simple digital LED face with blue eyes, household utility design mixed with futuristic robotics, small cleaning tools integrated into arms, lightweight helper robot silhouette, slightly old and outdated technology feeling, backpack battery module, tiny utility drones docked on the back, soft blue glowing accents, believable industrial design, high detail hard surface modeling, clean topology friendly shapes, stylized realistic, inspired by consumer electronics and domestic robots, functional joints and mechanical details, not a combat robot at first glance, designed for Unity game asset creation, front-facing neutral pose, full body concept, isolated background",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "54160fdf692a44a4c907fc7d60dd1960",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

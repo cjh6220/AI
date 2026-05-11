@@ -1,0 +1,23 @@
+{
+  "asset": "2ddcc7fca3f2a564d85e9ef7bd82f99d",
+  "fileName": "019e01c7-587b-757d-bac1-f7fa3df7676e.glb",
+  "prompt": "A futuristic medical support robot designed for a sci-fi post-apocalyptic world, full body front view, T-pose, dark background, highly detailed hard surface modeling, realistic mechanical design, primarily white and dark gray body with strong green glowing accents, clearly different silhouette from a home assistant robot, bulkier torso with integrated medical equipment, glowing medical cross symbols on chest and face display, transparent green medical canisters mounted on shoulders and waist, advanced support unit aesthetic, robotic injector arm on one side, modular repair tool arm on the other, humanoid proportions but support-focused design, illuminated green core reactor in abdomen, detailed joints and pistons, worn and scratched surfaces, realistic materials, cinematic studio lighting, symmetrical presentation, designed for Unity game asset reference, high poly sci-fi concept art, clean front orthographic style render",
+  "negativePrompt": "",
+  "model": "model3d-tripo-p1",
+  "modelName": "Tripo P1",
+  "customSeed": -1,
+  "w3CTraceId": "",
+  "feedback": 1,
+  "refinementMode": "Generation",
+  "promptImageReferenceGuid": "a308db729db801f469a6bbf5d7f3fbdd",
+  "modelReferenceGuid": "",
+  "multiviewFrontGuid": "",
+  "multiviewBackGuid": "",
+  "multiviewLeftGuid": "",
+  "multiviewRightGuid": "",
+  "multiviewTopGuid": "",
+  "multiviewBottomGuid": "",
+  "multiviewLeftFrontGuid": "",
+  "multiviewRightFrontGuid": "",
+  "faceLimit": -1
+}
